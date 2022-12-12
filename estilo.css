@@ -1,0 +1,81 @@
+
+
+body { 
+ background:#fc913a; 
+ margin:auto;
+}
+
+li { 
+    list-style: none;
+   
+
+ }
+
+.inscricoes {
+    color: aliceblue;
+    font-family: fantasy;
+    font-size: 100px
+    
+}
+
+.site{
+    color: aliceblue;
+    font-size: 40px;
+    font-family: 'Courier New';
+    
+}
+
+.imagem{
+    width: 24rem;
+    height: 20rem;
+}
+
+
+
+
+
+.venha{
+    color: aliceblue;
+    font-size: 40px;
+    font-family: 'Courier New';
+    background-color:  #ff4e50;
+    padding: 10px 12px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    border: 5px solid;
+    border-radius: 30px;
+    
+}
+    
+
+a {
+    text-decoration:none;
+    color: aliceblue;
+    
+    }
+
+.inicio{
+    width: 80%;
+    margin-left: 10rem;
+    
+}
+
+.tudo {
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+}
+ .esquerda{
+    width: 60%;
+    
+ }
+ .direita{ 
+    width: 40%;
+ }
+ 
+
+
+ .venha:hover  { 
+   transform: scale(1.1);
+ }
